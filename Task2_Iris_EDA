@@ -1,0 +1,76 @@
+# 🌸 Iris Dataset Data Exploration (Task 2)
+
+## 📌 Project Overview
+This project performs **Exploratory Data Analysis (EDA)** on the Iris Dataset.  
+The goal is to understand the structure of the dataset, identify any missing values, and visualize the distribution and relationships between different features.
+
+The Iris dataset is one of the most widely used datasets in data science and machine learning for classification and data analysis practice.
+
+---
+
+## 🎯 Objectives
+- Load and explore the Iris dataset
+- Understand dataset structure and feature information
+- Check for missing values
+- Generate statistical summaries
+- Visualize feature distributions using plots and graphs
+
+---
+
+## 📂 Dataset
+The dataset contains measurements of iris flowers from three different species:
+
+- Iris-setosa
+- Iris-versicolor
+- Iris-virginica
+
+### Features:
+- Sepal Length
+- Sepal Width
+- Petal Length
+- Petal Width
+- Species
+
+Total Samples: **150**
+
+---
+
+## 🛠 Technologies Used
+- Python
+- Jupyter Notebook
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+
+---
+
+## 📊 Data Analysis Steps
+1. Import required libraries
+2. Load the dataset
+3. Explore dataset structure
+4. Check for missing values
+5. Generate statistical summaries
+6. Visualize data using:
+   - Histograms
+   - Pairplots
+   - Boxplots
+   - Correlation heatmaps
+
+---
+
+## 📈 Key Insights
+- Petal length and petal width show strong correlation.
+- Setosa species is clearly separable from other species.
+- Versicolor and Virginica have overlapping feature distributions.
+- No missing values were found in the dataset.
+
+---
+
+## 📷 Visualizations
+The project includes several visualizations to better understand the dataset:
+- Feature distribution histograms
+- Pairplot relationships
+- Boxplots for outlier detection
+- Correlation heatmap
+
